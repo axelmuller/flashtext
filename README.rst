@@ -12,6 +12,9 @@ FlashText
 
 This module can be used to replace keywords in sentences or extract keywords from sentences.
 
+Axel's additions
+---------------
+trying to extend end of word definition
 
 Installation
 ------------
